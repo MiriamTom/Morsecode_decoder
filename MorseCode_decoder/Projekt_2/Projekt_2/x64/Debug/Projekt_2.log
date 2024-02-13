@@ -1,0 +1,5 @@
+﻿  Projekt_2.cpp
+C:\Users\mimit\Desktop\ALG1\Projekt_2\Projekt_2\Projekt_2.cpp(110,1): error C2628: 'MorseTree' followed by 'int' is illegal (did you forget a ';'?)
+C:\Users\mimit\Desktop\ALG1\Projekt_2\Projekt_2\Projekt_2.cpp(110,5): error C3874: return type of 'main' should be 'int' instead of 'MorseTree'
+C:\Users\mimit\Desktop\ALG1\Projekt_2\Projekt_2\Projekt_2.cpp(131,5): error C2440: 'return': cannot convert from 'int' to 'MorseTree'
+C:\Users\mimit\Desktop\ALG1\Projekt_2\Projekt_2\Projekt_2.cpp(131,5): message : No constructor could take the source type, or constructor overload resolution was ambiguous

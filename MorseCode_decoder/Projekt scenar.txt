@@ -1,0 +1,11 @@
+Problem: dekodovaie morseovky 
+Meritko vstupu : pocet znakov na dekodovanie 
+Zakladni operace : Zisteni pozicie znaku a jeho charu
+			Spracovani vrcholu stromu a pruchod stromeme
+
+- Pravidla vetveni je tecka nebo carka 
+- vyska stromu je 3 pismen abecedy 
+- rozhodovacia podminka je znak na kterem se nachadzim 
+- zlozitost : O( log n ) -> logaritmicka, ak sa N zdvojnasobi delka behu se zvysi o konstantu 
+
+strom - acyklicky graf, neorientovany a suvisly , spojitý, a neobsahuje cykly
